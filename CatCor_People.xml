@@ -36,6 +36,20 @@
       <ref target="https://www.wikidata.org/wiki/Q170707">https://www.wikidata.org/wiki/Q170707</ref>
     </bibl>
   <bibl type="VIAF"><ref target="https://viaf.org/viaf/47121472/">https://viaf.org/viaf/47121472/</ref></bibl></person>
+	<person sex="m" xml:id="abd02">
+    <persName type="main">
+      <forename>New - test</forename>
+      <genName>Person -test</genName>
+    </persName>
+    <birth when="1725">1725</birth>
+    <death when="1789">1789</death>
+    <occupation from="1774" ref="occ.xml#sultan" to="1789"/>
+    <nationality>Ottoman</nationality>
+    <faith>Muslim</faith>
+    <bibl type="wikidata">
+      <ref target="https://www.wikidata.org/wiki/Q170707">https://www.wikidata.org/wiki/Q170707</ref>
+    </bibl>
+  <bibl type="VIAF"><ref target="https://viaf.org/viaf/47121472/">https://viaf.org/viaf/47121472/</ref></bibl></person>
   <person sex="m" xml:id="ado01">
     <persName type="main">
       <forename>Adolf Frederick</forename>
